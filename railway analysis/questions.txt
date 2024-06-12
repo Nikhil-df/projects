@@ -1,0 +1,72 @@
+1. Overall Analysis:
+
+* What is the total revenue generated from ticket sales?
+* How many tickets were sold online versus at the station?
+* What is the average price of tickets sold?
+
+
+2. Sales by Time and Date:
+
+* Which date had the highest number of ticket purchases?
+* What time of day sees the most ticket purchases?
+* Is there a correlation between the time of purchase and the price of the ticket?
+
+
+3. Journey and Delays:
+
+* What is the average delay time for delayed journeys?
+* Which station pair had the highest number of delayed journeys?
+* What are the common reasons for delays?
+
+
+4. Purchase and Payment Methods:
+
+* Which payment method is most commonly used?
+* What proportion of tickets are purchased using contactless payments versus credit cards?
+* How does the purchase method (online vs. station) impact the price of the ticket?
+
+
+5. Railcards and Discounts:
+
+* How many tickets were sold with railcard discounts?
+* Which railcard type is most commonly used?
+* What is the average discount received by railcard holders compared to non-railcard holders?
+
+
+6. Class and Ticket Type:
+
+* How many standard class tickets were sold compared to first-class tickets (if data for first class were present)?
+* What is the distribution of advance ticket purchases versus other types of tickets (if data for other types were present)?
+* How does the ticket class affect the likelihood of a journey being delayed?
+
+
+7. Journey Patterns:
+
+* Which are the top 5 most popular departure and arrival station pairs?
+* What is the average journey time between different station pairs?
+* Are there any stations that have a significantly higher rate of on-time arrivals compared to others?
+
+
+8. Refund Requests:
+
+* How many refund requests were made?
+* Is there a pattern in the refund requests in terms of journey status or reasons for delay?
+* What percentage of delayed journeys resulted in a refund request?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
