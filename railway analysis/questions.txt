@@ -30,14 +30,12 @@
 
 * How many tickets were sold with railcard discounts?
 * Which railcard type is most commonly used?
-* What is the average discount received by railcard holders compared to non-railcard holders?
 
 
 6. Class and Ticket Type:
 
 * How many standard class tickets were sold compared to first-class tickets (if data for first class were present)?
 * What is the distribution of advance ticket purchases versus other types of tickets (if data for other types were present)?
-* How does the ticket class affect the likelihood of a journey being delayed?
 
 
 7. Journey Patterns:
